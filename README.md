@@ -18,3 +18,5 @@
 - Lucy Xie
 - Anahi Barrozo
 - Braden McElroy
+- Carlos Rojas
+- Natalie Guerrerro
