@@ -25,3 +25,4 @@
 - Aakash Makwana
 - Canon Cockrell
 - Tony Chen
+- Marzuq Mazid
