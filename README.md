@@ -7,9 +7,14 @@
 - Abhishek Shrestha
 - Aditya Goyal
 - Abhinav Bulusu
+- Tanya Lertpradist
 - Vincent Wu
 - Aaron Cheng
 - Richard Yu
 - Boping Li
 - Krish Singh
+- Arsen Iman
+- Joy Chen
+- Lucy Xie
+- Anahi Barrozo
 - Braden McElroy
