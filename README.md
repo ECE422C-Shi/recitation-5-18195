@@ -6,3 +6,5 @@
 - Samuel Tamayo
 - Abhishek Shrestha
 - Aditya Goyal
+- Vincent Wu
+- 
