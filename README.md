@@ -16,3 +16,5 @@
 - Arsen Iman
 - Joy Chen
 - Lucy Xie
+- Anahi Barrozo
+
