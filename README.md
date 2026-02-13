@@ -23,3 +23,4 @@
 - Rithvik Vadlamani
 - Krish Dhanuka
 - Aakash Makwana
+- Canon Cockrell
