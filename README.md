@@ -1,2 +1,4 @@
 - Hengchen Yuan
 - Jamey Alden
+- Samuel Tamayo
+- Abhishek Shrestha
