@@ -9,3 +9,4 @@
 - Abhinav Bulusu
 - Vincent Wu
 - Aaron Cheng
+- Richard Yu
