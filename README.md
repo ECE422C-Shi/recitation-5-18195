@@ -17,4 +17,4 @@
 - Joy Chen
 - Lucy Xie
 - Anahi Barrozo
-
+- Braden McElroy
