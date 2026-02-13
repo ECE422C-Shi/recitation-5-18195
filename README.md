@@ -18,3 +18,4 @@
 - Lucy Xie
 - Anahi Barrozo
 - Braden McElroy
+- Rithvik Vadlamani
