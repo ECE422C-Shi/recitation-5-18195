@@ -15,3 +15,4 @@
 - Krish Singh
 - Arsen Iman
 - Joy Chen
+- Lucy Xie
