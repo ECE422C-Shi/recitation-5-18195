@@ -11,3 +11,4 @@
 - Aaron Cheng
 - Richard Yu
 - Boping Li
+- Krish Singh
