@@ -2,3 +2,4 @@
 - Po Han Ai
 - Samuel Tamayo
 - Abhishek Shrestha
+- Aditya Goyal
