@@ -21,4 +21,5 @@
 - Carlos Rojas
 - Natalie Guerrerro
 - Rithvik Vadlamani
+- Krish Dhanuka
 
